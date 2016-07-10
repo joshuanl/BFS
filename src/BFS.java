@@ -16,5 +16,11 @@ public class BFS {
                 {0, 0, 0, 0, 0, 0, 1, 1},
                 {0, 0, 0, 0, 0, 0, 1, -1}
         };
+
+
     }//end of main
+
+    public void BFS(int[][] grid){
+
+    }//end of bfs
 }//end of class
